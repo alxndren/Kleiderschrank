@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "MeinKleiderschrank",
+  "short_name": "Kleiderschrank",
+  "description": "Deine Outfits. Dein Wetter. Dein Stil.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f5",
+  "theme_color": "#faf8f5",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
